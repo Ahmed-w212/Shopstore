@@ -23,7 +23,7 @@ shopstore/
 ```
 
 # Team Members
-Ahmed Ensairan
-Jalil Almuhaishi
-Ali Al-Ismail
-zefr0x
+Ahmed Ensairan, 
+ Jalil Almuhaishi,
+ Ali Al-Ismail,
+ zefr0x
